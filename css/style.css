@@ -1,0 +1,175 @@
+body{
+  margin:0;
+  min-height: 100%;
+  font-family:Georgia;
+}
+
+.logo{
+  padding-left: 1.5cm;
+  float:left;
+  padding-top: 14px;
+  /*padding-top: 10px;
+  padding-bottom: 10px;*/
+}
+
+.logo a{
+  color: #3e3e5b;
+  text-align: center;
+  padding-top: 13px;
+  padding-bottom: 14px;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-decoration: none;
+}
+
+
+.menu{
+  top: 0; /* At the top */
+
+  position: sticky;
+  border-bottom-style: solid;
+  border-bottom-width: thin;
+  border-color: #3e3e5b;
+  width:100%;
+  float:left; /*we need to also float the div to the left to be visible, otherwise it dissapears even though the content is in the right position.*/
+  margin-bottom: 1cm;
+  background-color:  white;
+
+}
+
+
+.navigator{
+
+  background-color: yellow;
+  margin: 0;
+  padding: 0 ;
+}
+
+
+.ul{
+
+  float: left;
+  list-style-type: none;
+  margin: 0;
+  padding:0;
+  padding-left: 110px;
+  list-style: none;
+  height: 45px;
+}
+
+.ul li {
+  float: left;
+  padding-top: 13px;
+}
+
+
+.ul li a {
+
+color: #3e3e5b;
+text-align: center;
+padding-top: 13px;
+padding-bottom: 9px;
+padding-left: 30px;
+padding-right: 30px;
+text-decoration: none;
+
+
+}
+
+.ul li a:hover:not(.active){
+  /*background-color: #e0e0eb;*/
+
+   border-bottom-style: solid;
+   border-width: thick;
+   border-bottom-color: #3e3e5b;
+/*background-color: #3e3e5b;*/
+}
+.ul li a.active{
+  float: right;
+
+
+}
+
+
+
+
+
+#content{
+  overflow:scroll;
+
+  line-height: 1.8;
+
+
+  padding-left: 0.5cm;
+  padding-right: 0.5cm;
+  padding-top: 0.5cm;
+  padding-bottom: 1.5cm;
+  min-height: 11cm;
+}
+
+#containerIndex{
+
+  background-color: white;
+  font-family:cursive;
+  font-size: 30px;
+  padding-left: 3cm;
+  padding-right: 3cm;
+  padding-top: 4cm;
+  margin-left: auto;
+  margin-right: auto;
+  color: #3e3e5b;
+
+}
+
+#containerAbout{
+  float:left;
+  margin-left: 4cm;
+  text-align: justify;
+  width:9cm;
+  height:15cm;
+  color: #3e3e5b;
+  background-color: white;
+
+}
+
+#containerPhoto{
+  float:left;
+  margin-left: 1.5cm;
+}
+
+#avatar{
+
+    width : 5cm;
+    height: auto; /*to preserve the aspect ratio of the image*/
+
+}
+
+
+#research{
+  color: #3e3e5b;
+}
+
+footer{
+  clear: both;
+}
+
+.footer{
+
+  border-top-style: solid;
+  border-top-width: thin;
+  border-color: #3e3e5b;
+  min-width: 100%;
+
+  height: 2cm;
+  color:#3e3e5b;
+  padding-bottom: 1cm;
+  background-color: white;
+  font-weight: 100;
+}
+
+
+#contact{
+  padding-left: 1.5cm;
+  color:#3e3e5b;
+
+}
