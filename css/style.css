@@ -95,11 +95,8 @@ text-decoration: none;
 
 
 #content{
-  overflow:scroll;
 
   line-height: 1.8;
-
-
   padding-left: 0.5cm;
   padding-right: 0.5cm;
   padding-top: 0.5cm;
@@ -114,7 +111,7 @@ text-decoration: none;
   font-size: 30px;
   padding-left: 3cm;
   padding-right: 3cm;
-  padding-top: 4cm;
+  padding-top: 5cm;
   margin-left: auto;
   margin-right: auto;
   color: #3e3e5b;
