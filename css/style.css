@@ -134,9 +134,15 @@ text-decoration: none;
 
 }
 
-#avatar{
-  width:"2cm";
+.menu a img{
+  width: 80px;
+background-color: #3a2d72;
+top: 18px;
+left: 39px;
+position: absolute;
+z-index: 3;
 }
+
 
 #research{
   color: #3e3e5b;
