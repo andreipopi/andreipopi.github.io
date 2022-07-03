@@ -134,9 +134,15 @@ text-decoration: none;
 
 }
 
+#containerPhoto{
+  padding-top: 1cm;
+  float:left;
+  margin-left: 1.5cm;
+  background-color: turquoise;
+}
 
 #avatar{
-    width : 10px;
+    width : 30px;
     height: auto; /*to preserve the aspect ratio of the image*/
 }
 
