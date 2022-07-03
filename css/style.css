@@ -99,14 +99,11 @@ text-decoration: none;
 
 
 #content{
-
+  width: 655px;
   line-height: 1.8;
-  padding-left: 0.5cm;
-  padding-right: 0.5cm;
-  padding-top: 0.5cm;
-  padding-bottom: 1.5cm;
   min-height: 11cm;
   margin:auto;
+  background-color: thistle;
 }
 
 #containerIndex{
