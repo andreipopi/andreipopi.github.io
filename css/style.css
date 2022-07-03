@@ -104,7 +104,6 @@ text-decoration: none;
   padding-top: 0.5cm;
   padding-bottom: 1.5cm;
   min-height: 11cm;
-  background-color: thistle;
   margin:auto;
 }
 
@@ -123,7 +122,6 @@ text-decoration: none;
 }
 
 #containerAbout{
-  float:left;
   margin:auto;
   text-align: justify;
   width:10cm;
