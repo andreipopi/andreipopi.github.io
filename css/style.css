@@ -122,12 +122,12 @@ text-decoration: none;
 
 #containerAbout{
   float:left;
-  margin-left: 4cm;
   text-align: justify;
   width:10cm;
   height:15cm;
   color: #3e3e5b;
   background-color: white;
+  margin:auto;
 
 }
 
