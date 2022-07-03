@@ -98,7 +98,7 @@ text-decoration: none;
 }
 
 
-#content{
+.content{
   width: 655px;
   line-height: 1.8;
   min-height: 11cm;
