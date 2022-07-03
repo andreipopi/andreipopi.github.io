@@ -24,8 +24,8 @@ body{
 
 
 .menu{
-  top: 0; /* At the top */
-
+  background-color: yellowgreen;
+  top: 10px;
   position: sticky;
   border-bottom-style: solid;
   border-bottom-width: thin;
