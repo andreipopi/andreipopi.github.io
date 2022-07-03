@@ -134,13 +134,9 @@ text-decoration: none;
 
 }
 
-.menu a img{
+.menu img{
   width: 80px;
-background-color: #3a2d72;
-top: 18px;
-left: 39px;
-position: absolute;
-z-index: 3;
+  
 }
 
 
