@@ -136,6 +136,7 @@ text-decoration: none;
 
 #avatar {
   width: 80px;
+  position:absolute;
 }
 
 
