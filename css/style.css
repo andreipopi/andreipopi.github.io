@@ -134,12 +134,8 @@ text-decoration: none;
 
 }
 
-.logo-image{
-  width: 46px;
-  height: 46px;
-  border-radius: 50%;
-  overflow: hidden;
-  margin-top: -6px;
+#avatar{
+  width:"2cm";
 }
 
 #research{
